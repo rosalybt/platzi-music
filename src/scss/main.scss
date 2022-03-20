@@ -1,0 +1,20 @@
+@import "../../node_modules/bulma/bulma.sass";
+
+.primary-color {
+  color: #00bfd6;
+}
+
+.third-color {
+  color: #ff9300;
+}
+
+.button {
+  background-color: #00bfd6;
+  color: white;
+}
+
+input.input {
+  box-shadow: none;
+  border: 0;
+  border-bottom: 2px solid #ff9300 !important;
+}
